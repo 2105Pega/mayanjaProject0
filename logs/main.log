@@ -1,0 +1,7 @@
+2021-05-23 18:04:39,891 -0500 [main] DEBUG (Driver.java:61) - Log4j appender configuration is successful !!
+2021-05-23 18:05:51,275 -0500 [main] DEBUG (Driver.java:60) - My Debug Log
+2021-05-23 18:05:51,277 -0500 [main] INFO  (Driver.java:61) - My Info Log
+2021-05-23 18:05:51,277 -0500 [main] WARN  (Driver.java:62) - My Warn Log
+2021-05-23 18:05:51,278 -0500 [main] ERROR (Driver.java:63) - My error log
+2021-05-23 18:05:51,278 -0500 [main] FATAL (Driver.java:64) - My fatal log
+2021-05-23 18:05:51,278 -0500 [main] DEBUG (Driver.java:67) - Log4j appender configuration is successful !!

@@ -1,0 +1,3 @@
+troy,hot,false
+hello,john,true
+gray,got,false
